@@ -1,0 +1,4 @@
+type	dist	displacement_ratio	duration	rad_avg	curvature
+Type A (Advective)	97996.0350	0.2832	15.4509	4104.7828	1.0617
+Type B (Loop)	153459.3351	0.1268	28.0171	5148.9387	1.0445
+Type C (Spreading)	118757.4055	0.2394	17.1112	6502.3537	0.9580
